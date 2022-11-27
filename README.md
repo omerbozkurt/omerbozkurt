@@ -79,7 +79,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=213qnua4hc5ayctgxn4lixk3i&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3qqchy9zod5d9hjem3kwct1rw&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&bar_color=0068a8&bar_color_cover=true" /></div>  
 
 <br/>  
 
