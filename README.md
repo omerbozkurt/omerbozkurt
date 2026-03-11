@@ -17,8 +17,7 @@ Menuverse, en modern web teknolojilerini kullanarak restoranlara yeni nesil bir 
 | **Frontend** | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
 | **3D & AR** | ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white) **React-Three-Fiber**, **WebXR**, **Google Model-Viewer** |
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
-| **Infrastructure** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| **Database & Auth** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
 
 ---
 
@@ -33,8 +32,8 @@ Menuverse, en modern web teknolojilerini kullanarak restoranlara yeni nesil bir 
 ### 📊 GitHub İstatistiklerim
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADIN]&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[KULLANICI_ADIN]&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omerbozkurt&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerbozkurt&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---
