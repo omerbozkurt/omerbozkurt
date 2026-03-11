@@ -1,24 +1,50 @@
-<h1 align="center">Hi 👋, I'm Ömer</h1>
-<h3 align="center">Web Developer & Designer from Turkey</h3>
+# 👋 Selam, Ben Ömer Bozkurt!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omerbozkurt&label=Profile%20views&color=0e75b6&style=flat" alt="omerbozkurt" /> </p>
+### 🚀 Menuverse Kurucusu | Full-Stack Developer & 3D/AR Enthusiast
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omerbozkurt" alt="omerbozkurt" /></a> </p>
+Dijital dünyayı fiziksel gerçeklikle birleştirmeye odaklanmış bir yazılımcıyım. Şu anda restoran sektöründe devrim yaratmayı hedefleyen **Menuverse** platformunu geliştiriyorum. Kağıt menüleri tarihe gömüp, yemekleri masanıza 3D ve AR ile getiriyoruz.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🌌 Menuverse
+
+Menuverse, en modern web teknolojilerini kullanarak restoranlara yeni nesil bir dijital kimlik kazandırır.
+
+### 🛠 Teknik Mimari ve Teknoloji Yığını
+
+| Katman | Kullanılan Teknolojiler |
+| :--- | :--- |
+| **Frontend** | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **3D & AR** | ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white) **React-Three-Fiber**, **WebXR**, **Google Model-Viewer** |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| **Infrastructure** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+
+---
+
+### 🔥 Neler Yapıyorum?
+
+- 🧊 **3D Rendering:** Web tarayıcılarında yüksek performanslı 3D modelleme çözümleri üretiyorum.
+- 📱 **AR Integration:** WebXR API kullanarak "App-less" (uygulamasız) artırılmış gerçeklik deneyimleri tasarlıyorum.
+- ⚡ **Performance Optimization:** Büyük 3D modellerin (GLB/USDZ) web üzerinde hızlı yüklenmesi için optimizasyon süreçlerini yönetiyorum.
+
+---
+
+### 📊 GitHub İstatistiklerim
+
 <p align="left">
-<a href="https://linkedin.com/in/omerbozkurt07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omerbozkurt07" height="30" width="40" /></a>
-<a href="https://instagram.com/omerrbozkurt7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omerrbozkurt7" height="30" width="40" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADIN]&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[KULLANICI_ADIN]&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-</a>
- <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omerbozkurt&show_icons=true&locale=en&layout=compact" alt="omerbozkurt" /></p>
+### 📫 Bana Ulaşın
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omerbozkurt&show_icons=true&locale=en" alt="omerbozkurt" /></p>
+<p align="left">
+<a href="https://linkedin.com/in/omerbozkurt07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:25omerbozkurt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omerbozkurt&" alt="omerbozkurt" /></p>
+---
+*"Geleceği tahmin etmenin en iyi yolu, onu inşa etmektir."*
