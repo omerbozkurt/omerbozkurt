@@ -24,12 +24,3 @@ Kullanıcıları dijital ve fiziksel dünyalar arasında buluşturan, sınırlar
 
 **Tasarım:** ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-
-## 📈 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omerbozkurt&show_icons=true&theme=radium" alt="Ömer'in GitHub İstatistikleri" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerbozkurt&layout=compact&theme=radium" alt="Ömer'in En Çok Kullandığı Diller" />
-</p>
